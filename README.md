@@ -1,0 +1,3 @@
+# generic-haskell-shell-adapter
+
+this README is still empty, but will hopefully be filled some time soon...
